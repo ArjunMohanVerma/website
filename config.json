@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/jaishriram",
+    "prod_uri":"mysql://root:@localhost/jaishriram",
+    "fb_url":"https://facebook.com/jaishriram",
+    "tw_url":"https://twitter.com/jaishriram",
+    "gh_url": "https://github.com/jaishriramSS",
+    "blog_name": "Web World!",
+    "tag_line": "Best place for gym lovers...",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword"
+  }
+}
